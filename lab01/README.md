@@ -1,0 +1,3 @@
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html no hacks answer to the lab questions:
+
+app/(tabs)/index.tsx: I think this file handles the navigation and layout for the tabs in the app. package.json: This file keeps track of the app’s dependencies, scripts, and some project settings. node_modules/: is this folder contains all the libraries and packages that the app needs to work. .gitignore: I believe this file tells Git which files and folders it should ignore, like unnecessary or large files.
